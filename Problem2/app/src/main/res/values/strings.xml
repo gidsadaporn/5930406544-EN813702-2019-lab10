@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Manee Jaidee</string>
+    <string name="bio">I\'m currently an Associate Professor in Department of Computer Engineering Faculty of Enginering.
+I was born in A. Phan, Chiang Rai and finished M3 at Sirimart Tehvi School.
+Then, I went to continue my studies at Montfort College in Chiang Mai.
+Later, I was awarded the Thai Government Scholarship to study Computer Engineering in the States.
+I received Bachelor of Science with University and College honors in Eletrical and Computer Engineering(Minor in Computer Science) at Carnegie Mellon University Then, I went to do Master and Ph.D. degrees in Computer Science and Engineering at the University of Michigan at Ann Arbor.
+The thesis title is Methods for Efficient Storage and Indexing in XML Databases.
+I also got opportunities to do internships in the IBM Toronto Software Lab, IBM Almaden Research Lab in California, and IBM T.J. Watson Research Lab in New York.</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+    <string name="yellow_star">Yellow star</string>
+</resources>
