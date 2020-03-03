@@ -1,6 +1,5 @@
 package th.ac.kku.coe.myapplication
 
-import android.R
 import android.content.Context
 import android.os.Bundle
 import android.view.View
